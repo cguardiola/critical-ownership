@@ -19,7 +19,7 @@ The examples show how different models, model versions, or parameter configurati
 
 ## Preservation of the evidence
 
-Each file contains both a link to the corresponding LLM interaction and a **literal transcript of the session**.
+Each folder contains both Prompts.md file with links to the corresponding LLM interaction and a **literal transcript of each session**.
 
 The transcripts are included as a preservation mechanism in case the original interaction links become unavailable or expire. They therefore provide a contemporaneous record of the responses analysed in the paper, independently of the continued availability of the original sessions.
 
