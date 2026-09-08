@@ -5,13 +5,13 @@ The purpose of the repository is to make these interactions available for inspec
 
 The repository is organised into two directories:
 
-## performativity`
+## performativity
 
 This directory contains prompts and interaction sessions illustrating the **performativity of generative AI**.
 
 The included examples show how, when the same question is posed in different sessions, an LLM may generate different responses. These interactions are intended to illustrate the epistemological problem associated with the performative nature of generative AI: the model does not simply retrieve a fixed piece of information, but generates content anew in response to each interaction.
 
-## illusion of rigor`
+## illusion of rigor
 
 This directory contains interaction sessions illustrating the **illusion of rigour** and the problem of **systemic hallucination** in LLMs.
 
