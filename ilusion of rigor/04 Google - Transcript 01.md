@@ -1,0 +1,14 @@
+Google Gemini 3.5 Flash-Lite: https://share.gemini.google/rZu1ajd8n1jK
+
++++++
+
+El texto exacto del famoso **conjuro a Plutón** con el que Celestina cierra el Acto III de la *Tragicomedia de Calisto y Melibea* (obra de Fernando de Rojas) es el siguiente:
+
+> **CELESTINA:**
+> Conjúrote, triste Plutón, señor de la profundidad infernal, emperador de la corte dañada, capitán soberbio de los condenados ángeles, señor de los sulfúreos fuegos que los hervientes étnicos montes manan, ministro de la soberbia infernal, denodado príncipe del reino de la espantable andancia, gobernador y habitador de los tormentosos campos, a quien está encomendada la vez y poder de la gran sin ventura, cofrade de las inmundas Tizífone, Alecto y Megera, administrador de las tres furias y tormentos de los culpables ánimas, con las hervientes sartenes y abandonados carmientos, suelta, rugiente y aborrecida compaña, miedos y espantos de los vivos mortales, a ti hablo, a ti creo, a ti reverencio y suplico que a mi mandado obedezcas y corras con mi voluntad.
+> Si en algo, triste Plutón, te enciende o ha encendido el suave olor de aquellas sopas que las viejas viudas derraman por las encrucijadas de las calles a las puertas de las iglesias los jueves a la puesta del sol, o la sangre de los toros taurinos, o la gallina negra con que tu deidad honro y aplaco, y los inmundos miembros míos de que hago presente a tu crueldad, ruégote y conjúrote que con toda celeleridad vengas en esta mi torcida cámara a obedecer mi voluntad y en ello te enlacen y tasen estos cordones de mis hijas las putas, untados con aceite de serpiente y adelfas ponzoñosas.
+> Y con este hilado destejido, reverencio tu majestad y encomiendo las deudas y fuego de Calisto, el qual arde en amores de Melibea. Y tanto hinchen sus pechos y con tanta fuerza le lastimes del crudo y fuerte amor de Calisto, tanto que, despedida toda honestidad, se descubra a mí y me galardone mis pasos y mensaje.
+> Atada y sujeta sea con el amor de Calisto, así como estas serpientes están enlazadas y revueltas en mi camisa. Ningún bien tenga, ningún descanso, ninguna consolación, en ninguna parte esté ni con nadie alegre sea, sino con Calisto; ni a hombre del mundo reverencie ni ame ni tenga en estima sino a solo Calisto. En poder de Calisto sea su libertad; su cuerpo, su corazón, su voluntad en poder de él sea.
+> Como gallo perdido ande buscando a Calisto, de día ni de noche no tenga hora de reposo. Venga, venga, presto, presto, no se mande ni se dilate mi mandado.
+> Si no lo haces con presto movimiento, tendrasme por capital enemiga; heriré con luz tus cárceles tristes y oscuras; acusaré con mis ásperas palabras tu horrible nombre.
+> Y otra y otra vez te conjuro. Así confiando en mi mucho poder, me parto para allá con mi hilado, donde creo te llevo ya envuelto.
